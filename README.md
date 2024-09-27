@@ -1,5 +1,11 @@
 # Retro Bowl Unblocked: Nostalgic Gaming Experience
-
+### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
+- 🔭 I’m currently working on game company
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- ❓ Ask me about anything related to MERN stack and related technologies  
+- ⚡ Fun fact: YOU CAN USE THIS LINK FOR GAMES
+- 
 
 <a href="https://retrobowl-2.github.io">CLICK TO PLAY RETRO BOWL</a>
 
@@ -7,19 +13,7 @@
 
 <a href="https://lesson1.guru"> CLICK TO PLAY RETRO BOWL 3</a>
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
 
-- 🔭 I’m currently working on game company
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
 
 In recent years, the popularity of retro-style games has surged, bringing back the nostalgia of classic gameplay while appealing to a new generation of players. One standout title in this revival is **Retro Bowl**, a pixelated football game that has captured the hearts of gamers with its simple mechanics, engaging strategy, and charming aesthetic. Among its various iterations, "Retro Bowl Unblocked" has emerged as a favored version, especially in environments like schools or workplaces where access to gaming sites might be restricted.
 
